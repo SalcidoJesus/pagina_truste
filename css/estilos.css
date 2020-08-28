@@ -319,6 +319,7 @@ footer {
     display: block;
   }
   .cards>.card{
+    margin: auto;
     margin-bottom: 10px;
   }
 
